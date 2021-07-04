@@ -205,3 +205,5 @@ def run():
 ### 🔥致谢
 
 感谢[wxy1343/weibo_points](https://github.com/wxy1343/weibo_points)的接口参考
+
+7.4
